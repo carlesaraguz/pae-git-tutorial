@@ -1,2 +1,3 @@
 # PAE git Tutorial (2020-Q2)
-A git repository for the git tutorial, hosted in GitHub.
+This is a git repository hosted in GitHub (public to anyone). 
+This tutorial will guide you through the basic Git commands and workflow.
